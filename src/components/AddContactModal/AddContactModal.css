@@ -1,0 +1,8 @@
+.dataInputs{
+  height: 120px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 100px;
+}

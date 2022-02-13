@@ -1,0 +1,8 @@
+export const SET_USER_DATA = 'SET_USER_DATA';
+export const SET_USER = 'SET_USER';
+export const SET_CONTACTS = 'SET_CONTACTS';
+export const IS_CONTACT_ADDED = 'IS_CONTACT_ADDED'
+export const IS_CONTACT_DELETED= 'IS_CONTACT_DELETED'
+export const SEARCHED_CONTACT = 'SEARCHED_CONTACT'
+export const IS_CONTACT_EDITED = 'IS_CONTACT_EDITED'
+export const ERROR = 'ERROR';

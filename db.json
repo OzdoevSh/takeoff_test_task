@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "Shahidio",
+      "last_name": "Qwerty",
+      "email": "shaozdo@mail.ru",
+      "password": "Shahid06"
+    },
+    {
+      "id": "2",
+      "first_name": "Shao",
+      "last_name": "Qwerty",
+      "email": "shaoz@mail.ru",
+      "password": "Shahid0"
+    }
+  ]
+}
