@@ -8,5 +8,5 @@
 5) json-server --watch -p 3004  contacts.json
 
 Далее вас перекинет на страницу авторизации, после чего необходимо ввести учетные данные: 
-  email: ivan@mail.ru
-  password: Ivan123
+1) email: ivan@mail.ru
+2) password: Ivan123
