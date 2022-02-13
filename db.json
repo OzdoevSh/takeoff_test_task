@@ -2,17 +2,17 @@
   "users": [
     {
       "id": "1",
-      "first_name": "Shahidio",
+      "first_name": "Ivan",
       "last_name": "Qwerty",
-      "email": "shaozdo@mail.ru",
-      "password": "Shahid06"
+      "email": "ivan@mail.ru",
+      "password": "Ivan123"
     },
     {
       "id": "2",
       "first_name": "Shao",
       "last_name": "Qwerty",
-      "email": "shaoz@mail.ru",
-      "password": "Shahid0"
+      "email": "shaosasz@mail.ru",
+      "password": "Masaa0"
     }
   ]
 }
